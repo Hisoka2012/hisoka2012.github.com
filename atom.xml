@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://hisoka2012.github.io/atom.xml" rel="self"/>
+  <link href="http://hisoka2012.github.io/"/>
+  <updated>2015-02-25T14:47:23+08:00</updated>
+  <id>http://hisoka2012.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year]]></title>
+    <link href="http://hisoka2012.github.io/blog/2015/02/24/happy-new-year/"/>
+    <updated>2015-02-24T09:01:04+08:00</updated>
+    <id>http://hisoka2012.github.io/blog/2015/02/24/happy-new-year</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[This a Test]]></title>
+    <link href="http://hisoka2012.github.io/blog/2015/02/23/this-a-test/"/>
+    <updated>2015-02-23T21:32:42+08:00</updated>
+    <id>http://hisoka2012.github.io/blog/2015/02/23/this-a-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My First Octopress Blog]]></title>
+    <link href="http://hisoka2012.github.io/blog/2015/02/23/my-first-octopress-blog/"/>
+    <updated>2015-02-23T14:06:49+08:00</updated>
+    <id>http://hisoka2012.github.io/blog/2015/02/23/my-first-octopress-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
